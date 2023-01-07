@@ -1,0 +1,89 @@
+.content {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.background {
+    height: 80vh;
+    position: absolute;
+    left: -350px;
+    opacity: 0.05;
+    top: 40px;
+}
+
+.info {
+    width: 60%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: #FFF;
+}
+
+input {
+    border: 1px solid #999999;
+    border-radius: 2rem;
+    min-width: 250px;
+    width: 80%;
+    margin-right: 12px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+    color: #f0f8ff;
+}
+
+button {
+    border: 1px solid #999999;
+    border-radius: 2rem;
+    margin-right: 12px;
+    width: 5rem;
+    background: #2D333B;
+    font-size: 18px;
+    padding: 10px;
+    color: #f0f8ff;
+    cursor: pointer;
+    transition: .3s;
+}
+
+button:hover {
+    opacity: .5;
+}
+
+.userProfile {
+    display: flex;
+    margin: 40px 0;
+}
+
+.profile {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 2px solid #E5E5E5;
+    margin-right: 32px;
+}
+
+.userProfile h3 {
+    color: #999999;
+    font-size: 24px;
+    margin: 0;
+}
+
+.userProfile span {
+    display: block;
+    color: #999999;
+    font-size: 12px;
+    margin: 0;
+}
+
+.userProfile p {
+    color: #999999;
+    font-size: 12px;
+    margin: 20px 0 0 0;
+}
+
+.repositories {
+    font-size: 32px;
+    color: #FFF;
+    margin: 12px  0;
+    text-align: center;
+}
