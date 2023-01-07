@@ -1,3 +1,24 @@
+## 🛠️ Functionalities
+
+- Search user from GitHub;
+- View avatar, description, username and repositories.
+
+## 📡 Tecnologias utilizadas
+
+- Using GitHub API
+<div align="center">
+<img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+</div>
+<br/><br/>
+
+## Project Photo
+
+![image](https://user-images.githubusercontent.com/102702355/211171231-c737f750-4d51-4b6c-a2ab-33542d003b82.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
