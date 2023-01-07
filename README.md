@@ -5,7 +5,7 @@
 
 ## 📡 Tecnologias utilizadas
 
-- Using GitHub API
+- GitHub API
 <div align="center">
 <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="left" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
